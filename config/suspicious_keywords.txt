@@ -1,0 +1,13 @@
+key
+logger
+spy
+hook
+capture
+record
+stealth
+monitor
+kb
+keyboard
+input
+clipboard
+remote

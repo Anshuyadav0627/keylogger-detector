@@ -1,0 +1,10 @@
+{
+    "scan_paths": [
+        "%APPDATA%",
+        "%LOCALAPPDATA%",
+        "%PROGRAMDATA%",
+        "C:\\Windows\\Temp",
+        "C:\\Users\\Public",
+        "%TEMP%"
+    ]
+}
